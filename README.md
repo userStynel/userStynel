@@ -1,12 +1,5 @@
-- 👀 관심 분야
-  - 🎮 웹 게임 개발
-- 📖 현재 공부중인 분야
-  - 🖥️ Node.js, Javascript, Socket Programming
-  - 🗣️ 일본어 
-- 📫 블로그 주소
-  - https://blog.naver.com/ltnyst10
-  
-- 👀 I’m interested in ...
+
+ - 👀 I’m interested in ...
   - 🎮 Developing Web Game
 - 📖 I’m currently learning ...
   - 🖥️ Node.js, Javascript, Socket Programming
