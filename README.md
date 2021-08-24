@@ -4,4 +4,4 @@
   - 🖥️ Node.js, Javascript, Socket Programming
   - 🗣️ Japanese 
 - 📫 How to reach me ...
-  - Twitter: @Lostynel
+  - https://blog.naver.com/ltnyst10
