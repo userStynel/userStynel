@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @userStynel
 - 👀 I’m interested in ...
-  - 🎮 Developing Web Game, 📝 Problem Solving
+  - 🎮 Developing Web Game
 - 📖 I’m currently learning ...
-  - 🖥️ Node.js, Javascript, Discrete Mathematics
+  - 🖥️ Node.js, Javascript, Socket Programming
   - 🗣️ Japanese 
 - 📫 How to reach me ...
   - Twitter: @Lostynel
