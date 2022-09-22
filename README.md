@@ -1,5 +1,2 @@
-I'm interested in
-- Game Developing
-
-I'm studying
-- OpenGL, winSock, node.js
+관심있는 분야
+- 게임 개발, VR/AR
