@@ -1,9 +1,8 @@
-안녕하세요, 저는 컴퓨터 비전, 네트워크 프로그래밍에 관심이 많은 사람입니다
+📖 Education
+- Korea Digital Media Highschool: Hacking Defense
+- Soongsil University: Electronic Engineering
+  - GPA: 4.05 / 4.5 (Major) 3.91 / 4.5 (Overall)
+ 
+😊 Interested In
+- Network, Computer Vision
 
-Hello, I'm interested in Computer Vision and Network Programming
-
-EDUCATION:
-
-KOREA DIGITAL MEDIA HIGHSCHOOL (HACKING DEFENCE)
-
-SOONGSIL UNIVERSITY (ELECTRONIC ENGINEERING)
